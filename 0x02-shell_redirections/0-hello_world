@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/h$ ./0-hello_world | cat -e
+echo "Hello, World"
